@@ -1,0 +1,7 @@
+kivy
+,
+yt_dlp
+,
+os
+,
+threading
